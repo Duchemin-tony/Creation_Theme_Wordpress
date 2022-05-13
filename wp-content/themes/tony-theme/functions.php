@@ -2,6 +2,7 @@
 
 function tony_supports () {
     add_theme_support('title-tag');
+    add_theme_support('post-thumbails');
 }
 
 function tony_register_assets(){
